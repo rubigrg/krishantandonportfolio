@@ -1,0 +1,11 @@
+.col1{
+    width: 40%;
+    float: left;
+    background-color: blue;
+}
+
+.col2{
+    width: 40%;
+    float: left;
+    background-color: pink;
+}
